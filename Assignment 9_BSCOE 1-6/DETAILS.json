@@ -1,0 +1,54 @@
+{
+    "Personal Information": [
+      {
+        "Name": "Vienne Kayette L. Javier",
+        "Sex": "Female",
+        "Age": "18 years old",
+        "Address": "2 Chome-14-6 Takadanobaba, Shinjuku City, Tokyo 169-0075, Japan",
+        "Contact Number": "+81 3-6233-9662",
+        "Email Address": "javiervienne@prodigy.gg"
+      }
+    ],
+    "Professional Summary": [
+      "Systems Analyst with more than 5 years of work experience, I am eager to pursue a career in an office-based",
+      "role as a Quality Assurance Engineer. Goal-driven individual with a strong work ethic and the ability to work",
+      "independently. I have a proven aptitude in network topology, computer architecture, and administration which",
+      "would make me a competent asset to any workplace department."
+    ],
+    "Core Skills": ["> Certified, Expert Level - JavaScript", "> Certified, Expert Level - Python", "> Certified, Expert Level - Swift", "> Certified, Expert Level - C++", "> Algorithms", "> Data Structures", "> OOP", "> NoSQL", "> SQL"],
+    "Employment History": [
+      {
+        "Former Work": "Computer User Support Specialist (September 2026 - February 2029)",
+        "Former Company": "Telepeformance Octagon - Shibuya",
+        "Former Description": [
+          "Provided technical assistance to computer users. Answered questions and resolved computer problems for",
+          "clients in person, or via telephone or electronically. Entered commands and observed system functioning to",
+          "verify correct operations and detect errors."
+        ],
+        "Latter Work": "Systems Analyst (March 2029 - July 2034)",
+        "Latter Company": "Microsourcing Careers - Nakano",
+        "Latter Description": [
+            "Recommended tactical and strategic inputs on overall networking planning and process improvement systems",
+            "as well as provided support throughout system integration. Reviewed current guidelines then prepare general", 
+            "recommendations to policies and standards in relation to the use of computing resources."
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "Course": "Bachelor of Science in Computer Engineering (September 2024)",
+        "University": "University of Oxford, United Kingdom",
+        "Address": "Oxford OX1 2JD, United Kingdom"
+      }
+    ],
+    "Certifications": [
+      {
+        "Certification 1": "IT Excellence - 2029", 
+        "Description 1": "IT Security Governance, Data Centers, and IT Service Management",
+        "Certification 2": "Microsoft Certified Solutions Expert (MCSE) - 2030",
+        "Description 2": "Data, Communications, Cloud, Business Intelligence",
+        "Certification 3": "Microsoft Certified IT Professional (MCITP) - 2033"
+      }
+    ],
+    "Professional & Character References": ["Available upon request."]
+  }
